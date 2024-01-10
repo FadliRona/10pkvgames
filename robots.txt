@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://10pkvgames.finalfit.org/sitemap.xml
